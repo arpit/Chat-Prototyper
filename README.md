@@ -4,8 +4,8 @@ A simple app to prototype chat experiences
 
 
 This app uses the following projects which are also released under MIT licenses
-https://github.com/brandonmowat/react-chat-ui
-https://github.com/esausilva/example-create-react-app-express
+* https://github.com/brandonmowat/react-chat-ui
+* https://github.com/esausilva/example-create-react-app-express
 
 
 # Usage
